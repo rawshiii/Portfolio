@@ -59,19 +59,19 @@ npm run dev
 
 ### Home Page
 
-(Add screenshot here)
+
 
 ### Hotel Listings
 
-(Add screenshot here)
+
 
 ### Hotel Details
 
-(Add screenshot here)
+
 
 ### Booking Page
 
-(Add screenshot here)
+
 
 ## Key Highlights
 
@@ -85,7 +85,6 @@ npm run dev
 
 * Payment Gateway Integration
 * Admin Dashboard
-* Hotel Reviews & Ratings
 * Booking History
 * Wishlist Functionality
 
